@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1538957806 source:c:\users\armon\desktop\clearning\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myCFunction.h"
+	"Ojproblem.h"
+	"Sqlist.h"
+
+1536160573 c:\users\armon\desktop\clearning\mtest.h
+
+1537606261 c:\users\armon\desktop\clearning\ojproblem.h
+	<stdarg.h>
+
+1538958122 c:\users\armon\desktop\clearning\mycfunction.h
+
+1537605828 source:c:\users\armon\desktop\clearning\sqlist.c
+	"Sqlist.h"
+
+1537603093 c:\users\armon\desktop\clearning\sqlist.h
+	<stdio.h>
+	<stdlib.h>
+	"UnExpectation.h"
+
+1536505108 source:c:\users\armon\desktop\clearning\sqlistbypointer.c
+	"SqlistByPointer.h"
+
+1536505109 c:\users\armon\desktop\clearning\sqlistbypointer.h
+	<stdio.h>
+	<stdlib.h>
+
+1536497412 source:c:\users\armon\desktop\clearning\linklist.c
+	"LinkList.h"
+
+1536497985 c:\users\armon\desktop\clearning\linklist.h
+	<stdio.h>
+	<stdlib.h>
+
+1537025079 c:\users\armon\desktop\clearning\unexpectation.h
+
+1537605930 source:c:\users\armon\desktop\clearning\seqlist.c
+
