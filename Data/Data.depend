@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1535804702 source:c:\users\armon\desktop\data\sqlist.c
+	"Sqlist.h"
+
+1535804115 c:\users\armon\desktop\data\sqlist.h
+	<stdio.h>
+	<stdlib.h>
+	"Status.h"
+
+1534921622 c:\users\armon\desktop\data\status.h
+
+1535804729 source:c:\users\armon\desktop\data\sqlistmain.c
+	<stdio.h>
+	"Sqlist.h"
+
+1535805008 source:c:\users\armon\desktop\data\scanf.c
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+
